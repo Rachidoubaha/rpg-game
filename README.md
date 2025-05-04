@@ -6,4 +6,3 @@ Adrift was coded in C# and designed by me in Unity Game Engine. It incorporates 
 
 Adrift is available for free on Itch.io - link below. 
 
-https://davidclarkin.itch.io/adrift
