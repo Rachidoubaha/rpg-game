@@ -4,5 +4,8 @@ Adrift is a 2D, action role-playing game featuring procedural level generation, 
 
 Adrift was coded in C# and designed by me in Unity Game Engine. It incorporates many popular systems used in game development such as Components for reusability and scalability. BinaryFormatter was used to save and load data for the game. Procedural level generation is used to make every level the player experiences a slightly different experience. It is a slight alteration on the Random Walk algorithm to determine where to place rooms in a grid then placing certain premade prefab rooms at those locations. Many other systems such as the perk system are also implemented with the goal of being scalable - simply adding a new Perk script with the functionality of a perk is all that's necessary. 
 
+## 🎬 Démo vidéo
+
+📺 [Voir la vidéo sur Google Drive](https://drive.google.com/file/d/1oC84uTykcuWlnB-EpOAG7mM7dCbAwXRU/view?usp=sharing)
 
 
